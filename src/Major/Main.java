@@ -1,4 +1,7 @@
+package Major;
+
 import Models.Music;
+import Models.Podcast;
 
 import java.sql.SQLOutput;
 
@@ -14,6 +17,8 @@ public class Main {
     System.out.println(musicaEletronica.getTotalDeAvaliacoes());
     System.out.println(musicaEletronica.obterMedia());
     System.out.println("Tempo total da musica: " + musicaEletronica.getDuracaoEmMinutos());
+
+    Podcast cochinha = new Podcast("A Cochinha",2022);
 
 
 
