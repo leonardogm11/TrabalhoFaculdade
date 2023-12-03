@@ -51,9 +51,10 @@ public class Gravadora {
     }
 
     public void exibeFichaTecnica(){ //mandeira de fazer a ficha técnica. metodo
-        System.out.println("Nome da musica: " + nome);
+        System.out.println("Nome " + nome);
         System.out.println("O ano de lançamento: "+ anoDeLancamento);
     }
+
 
     public double obterMedia(){
 

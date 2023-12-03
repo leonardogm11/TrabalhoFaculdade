@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc0a501-6084-4fa8-b183-c6c67ee31f8d" name="Changes" comment="Renomeados">
-      <change afterPath="$PROJECT_DIR$/src/Major/ListMain.java" afterDir="false" />
+    <list default="true" id="acc0a501-6084-4fa8-b183-c6c67ee31f8d" name="Changes" comment="Renomeados 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Major/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Avaliacoes/Recomendavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Avaliacoes/Recomendavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Major/ListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Major/ListMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Major/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Major/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/Gravadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Gravadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Music.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,19 +63,28 @@
       <option name="project" value="LOCAL" />
       <updated>1701458984675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Renomeados 2">
+      <option name="closed" value="true" />
+      <created>1701462526314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701462526314</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Renomeados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renomeados" />
+    <MESSAGE value="Renomeados 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renomeados 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Major/Main.java</url>
-          <line>20</line>
+          <line>29</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

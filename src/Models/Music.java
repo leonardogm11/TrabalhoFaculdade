@@ -24,7 +24,7 @@ public class Music extends Gravadora implements Classify {
     }
 
     public String toString(){
-        return "Filme: " + this.getNome() + "(" + this.getAnoDeLancamento() + ")";
+        return "Musica: " + this.getNome() + "(" + this.getAnoDeLancamento() + ")";
     }
 
 

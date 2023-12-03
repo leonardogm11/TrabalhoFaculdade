@@ -18,6 +18,10 @@ public class ListMain {
         lista.add(popMusic);
         lista.add(ltda);
 
+        for (Gravadora item: lista) {
+            System.out.println(item.getNome());
+        }
+
     }
 }
 
