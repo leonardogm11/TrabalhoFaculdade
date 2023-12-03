@@ -5,6 +5,8 @@ import Avaliacoes.Classify;
 public class Music extends Gravadora implements Classify {
     private String musico;
 
+    private String estilo;
+
 
     public Music(String nome, int anoDeLancamento) {
         super(nome, anoDeLancamento);
@@ -21,6 +23,14 @@ public class Music extends Gravadora implements Classify {
 
     public int getClassificacao() {
         return (int) obterMedia() / 2;  //casting
+    }
+
+    public String getEstilo() {
+        return estilo;
+    }
+
+    public void setEstilo(String estilo) {
+        this.estilo = estilo;
     }
 
     public String toString(){
